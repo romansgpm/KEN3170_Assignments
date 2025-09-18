@@ -5,6 +5,7 @@ Excercise 1: Mihai
 
 Excercise 2: Mihai
 
-Excercise 3: Mihai
+Excercise 3: Paul
 
-Excercise 4: Paul
+Generative AI usage:
+No generative AI has been used for this assignment
